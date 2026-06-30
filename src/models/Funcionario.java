@@ -17,6 +17,7 @@ public class Funcionario {
     public String getNome() {
         return nome;
     }
+
     public String getCargo() {
         return cargo;
     }
@@ -24,6 +25,7 @@ public class Funcionario {
     public void setNome(String nome) {
         this.nome = nome;
     }
+
     public void setCargo(String cargo) {
         this.cargo = cargo;
     }
